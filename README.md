@@ -1,10 +1,4 @@
-# three.js
-
-[![NPM Package][npm]][npm-url]
-[![Build Size][build-size]][build-size-url]
-[![NPM Downloads][npm-downloads]][npmtrends-url]
-[![jsDelivr Downloads][jsdelivr-downloads]][jsdelivr-url]
-[![Discord][discord]][discord-url]
+# r-three.js
 
 #### JavaScript 3D library
 
