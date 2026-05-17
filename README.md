@@ -43,12 +43,11 @@ function animate( time ) {
 }
 ```
 
-If everything goes well, you should see [this](https://jsfiddle.net/w43x5Lgh/).
-
 ### Cloning this repository
 
 Cloning the repo with all its history results in a ~2 GB download. If you don't need the whole history you can use the `depth` parameter to significantly reduce download size.
 
 ```sh
 git clone --depth=1 https://github.com/kamer31337/r-three.js/git
-```----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
